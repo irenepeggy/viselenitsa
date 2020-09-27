@@ -1,6 +1,10 @@
 Viselenitsa (Hangman): brief description
 ==============================
 
+[![Build Status](https://travis-ci.com/irenepeggy/viselenitsa.svg?branch=master)](https://travis-ci.com/irenepeggy/viselenitsa)
+[![Codecov](https://codecov.io/gh/irennnneri/viselenitsa/branch/master/graph/badge.svg)](https://codecov.io/gh/irenepeggy/viselenitsa)
+
+
 This is a pretty plain console implementation of game [**Viselinitsa (Hangman)**](https://en.wikipedia.org/wiki/Hangman_(game)).
 All the tests are written with [ScalaTest](https://www.scalatest.org/). Static code analysis performed with [Scalastyle](http://www.scalastyle.org/). 
 
