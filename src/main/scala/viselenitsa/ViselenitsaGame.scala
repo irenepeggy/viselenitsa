@@ -1,8 +1,6 @@
 package viselenitsa
 
 import java.time.LocalDateTime
-
-import scala.annotation.tailrec
 import scala.io.Source
 import scala.util.Random
 import scala.io.StdIn
